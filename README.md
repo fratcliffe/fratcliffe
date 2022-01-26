@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Flick
+- 👋 Hi, I’m Flick (she/her)
 - 👀 I’m working on [a few things](https://dev.fratcliffe.uk/)
-- 🌱 I’m currently learning [Python](https://hyperskill.org/profile/81043693)
+- 🌱 I’m currently learning [Python](https://www.sololearn.com/profile/19006407)
 - 📫 Reach me via the links on [my website](https://www.fratcliffe.uk/)
