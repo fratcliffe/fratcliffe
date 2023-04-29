@@ -1,4 +1,9 @@
 - 👋 Hi, I’m Flick (she/her)
-- 👀 I’m working on [a few things](https://dev.fratcliffe.uk/)
-- 🌱 I’m currently learning [Python](https://www.sololearn.com/profile/19006407)
+- 👀 I’m working on a few things
+  - by myself:
+    - [very unfinished personal dev site](https://dev.fratcliffe.uk/)
+    - [a barely started tool for finding everything you've ever wanted to remember](https://topic-tags.fratcliffe.uk/)
+  - with some hugely talented friends:
+    - [a fun project focussed on observability](https://flam-flam.github.io/)
+- 🌱 I’m currently learning Go
 - 📫 Reach me via the links on [my website](https://www.fratcliffe.uk/)
